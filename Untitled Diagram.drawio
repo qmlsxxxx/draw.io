@@ -1,1 +1,181 @@
-<mxfile host="www.draw.io" modified="2019-11-27T16:11:41.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.99 Safari/537.36 Vivaldi/2.9.1705.41" etag="V_AFbixfNdrBFQym4PQ0" version="12.3.2" type="github" pages="1"><diagram id="TktDb8XkKvhefIiNoJ9c" name="Page-1">7Vxbc6M2FP41mmkfmgEEGB7BcbadaXrLzmz3KUOMjDXl4oIc2/31lczFIMkbxyGItTOTSYQAgb7vO0fnHDkGcJpsP+XBanmfhSgGhhZuAbwFhqG7mkH/sJ5d1aO5VtkT5Tis+g4dD/g/VF9Y9a5xiIrOhSTLYoJX3c55lqZoTjp9QZ5nm+5liyzuPnUVREjoeJgHsdj7BYdkWfY6xuTQ/zPC0bJ+sm675ZkkqC+uZlIsgzDbtLrgDMBpnmWkbCXbKYoZejUu5X13R842L5ajlJxyw2/eL3705c/VCv1b6E8++ozM+5+qUZ6DeF1NGMws4M+AO8NpQYI4vsFJBGYO8GbA0dhJxwKeReFe4OiGbAm9e3+a/tyy0/Q611vEQVQAw47pm/lPOW1FrCWOs8B5sqFTAMa0nAzBBGcpu9CHwJlUQztehSHZ1cTk2ToNEZubRkfeLDFBD6tgzs5uqBZp35IkMT3SaTOIcZTS9pxihXL2JuW0UU7Q9iieesMS1TfKEkTyHb2kusGseK2UXdO8OajE0Kq+ZUshdtUXVMKMmoEP3NFGRd8rqIQSKifANYFXN9y7ONhla0bZM0ab0UOqK8fUFDDd5BSVx3v/r8dGrI8keIrRDz+OHk/1GrUEPP11nuI0Yq65cQUjhxEqh9H+BowHH0oHSdjqNnY8TeV4TgQ8i+AZdTSp7Y18H33QXyhJ5qPH1VKOqyPgmqOChnjGggYH2mxLzLZgi9EjaitH1JUg+sRCyLFDN1EOXZ1RtAMkHjWUhh5LGhgWcVAUeN4FCm0x+ZthemNVR19bZ263Fdz7g119kNK3b93EDr+2zx1u2x/V95Uvh0IhP+EYoBPI1vkcvRzlkyCPEHkphBQZbVFmSRir+3IUBwQ/d19XRmP1hD8ynJKWYHTYUYzucEoop1nd1U50+IFsbiDIDVTiIAy0V1Uz7TcITZJUXYLQVAlDh24/wuAHauLhoYRhfAjjPYVh9CUMOLQwJLn7hzD6EwbsSxjm0MIQCxAfwniLMPjU82xhHMu1hhKGWEm5CGGcEMxWyfqLwayjUmjQ4oTmnik06HYHsocWmlhrer3QzhTNOQLtUWjOiUJzVQrN5PNs/VyPxinWHjprEotFku2izWNVh+PLHcsseVoXakodTdy561LbUoBuSySga9pxut9U66iN9Jtgfvr919txAsqLGkL1iL4uRE+zFB1xgnrHBR484ptXzhcdla50SWxCpN0Rrk71VJbODTSwpzL6CMrfPY56UQ3lW3//aoBy5zuUGCSB+MwGngZ8lzVcCFyv62nFT0Xsr/d0MHOB5wJ3wlw0jfscc++racNfSHbrx+ShzYl6D91DpHqqeY3Fakze9Z1sNfxAk4HNRtxyHddyqorhCR/6nFuhsDVuoIl7Yw3LsSSiH9s6+d3TPIENrcdKDe9Ns7gnzRYyOiHfaHKNco9aK5b7AfmVTPVetc0lcA2E7dXMkKjh/T7M18Me4thtgPdQQg31ZFfH598D18igLNumqjeBr+9jQIvFdDx9VK6kS1hB8uwfNM3iLD+seQscx1yXYAJM/HgexF51IsFhyB4jtaWutfVgPXws6IjGY0pUxJPUn+3IPgl7PXQIC7+tmg9JvnzFfFiaaj4ksbeQsl5WuspXaA0JBwOnq1AWNl2PVfCLhiEp8Q5qFfXDLjniEkDni2Xnlg+GrrqZfXzETn0JtvTEyvao7S6J+rlqEAYaOAM1ZfG3DRyHrUpsSfKAe3e5rvQoj8pcqSwAvx4+jhZplfEhC8Cvlw9LslcxLB9XuFNh8RsM54YaQ38AypRlS3x5M8riEKV71Ir5eoz/cmcfQVFZhdOU5D+XZgT8ygzP3eQWBuJpeWcjqPG40hXkKI+qVhBL9r0NvFMCMxP4DvB99u//PqwbFiswjM5BwROqln05KHp4+NqN0kQO314CZ/8D</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-06T04:52:58.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.125 Safari/537.36" etag="wG9XOrZxDDfEGKWqUEmu" version="12.8.1" type="github">
+  <diagram id="TktDb8XkKvhefIiNoJ9c" name="Page-1">
+    <mxGraphModel dx="1902" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-1" value="從install.img讀入config.txt 設定flags&lt;br&gt;讀入firmware, partition資訊" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-3" value="產生layout view" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-4" value="write_MBR_partition_table()" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-5" value="Burning firmware" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-6" value="Burning partition image" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="420" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-7" value="save firmware table to emmc" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-8" value="resize2fs Ext4 partitions" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="620" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-9" value="reboot" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="720" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NAIBgWQppeqs1bBeTe4M-1" target="NAIBgWQppeqs1bBeTe4M-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="180" as="sourcePoint" />
+            <mxPoint x="463" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="180" as="sourcePoint" />
+            <mxPoint x="139" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="280" as="sourcePoint" />
+            <mxPoint x="139" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="380" as="sourcePoint" />
+            <mxPoint x="139" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="480" as="sourcePoint" />
+            <mxPoint x="140" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NAIBgWQppeqs1bBeTe4M-7" target="NAIBgWQppeqs1bBeTe4M-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="490" as="sourcePoint" />
+            <mxPoint x="390" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NAIBgWQppeqs1bBeTe4M-8" target="NAIBgWQppeqs1bBeTe4M-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="710" as="sourcePoint" />
+            <mxPoint x="150" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-18" value="讀入fw_table" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="50" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-22" value="讀入GOLDfw_table" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="330" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-23" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="NAIBgWQppeqs1bBeTe4M-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="100" as="sourcePoint" />
+            <mxPoint x="510" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-24" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="NAIBgWQppeqs1bBeTe4M-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="100" as="sourcePoint" />
+            <mxPoint x="530" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-25" value="根據GOLDfw_table&lt;br&gt;校驗各個fw" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="470" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-26" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="430" as="sourcePoint" />
+            <mxPoint x="520" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-27" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="380" as="sourcePoint" />
+            <mxPoint x="600" y="379.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-28" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="380" as="sourcePoint" />
+            <mxPoint x="739.5" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-29" value="進入boot shell" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="680" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-31" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="520" as="sourcePoint" />
+            <mxPoint x="680" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-32" value="失敗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-33" value="失敗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-34" value="失敗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-37" value="根據fw_table&lt;br&gt;校驗各個fw" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-39" value="失敗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-40" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="250" as="sourcePoint" />
+            <mxPoint x="520" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-41" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="NAIBgWQppeqs1bBeTe4M-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="150" as="sourcePoint" />
+            <mxPoint x="360" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-42" value="成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-43" value="成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-44" value="成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-46" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="570" as="sourcePoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-47" value="進入golden rescue" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="460" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-49" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="360" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-50" value="成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAIBgWQppeqs1bBeTe4M-51" value="進入主系統" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="300" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
